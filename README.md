@@ -13,6 +13,14 @@ HmmBiasResolver takes raw array-like data as input, fills the missing data with 
 * value range [-1, +1]
 
 ## Requirements
-`hmmlearn==0.2.0`
-`numpy==1.13.3`
-`progressbar==2.3`
+
+```
+hmmlearn==0.2.0
+numpy==1.13.3
+progressbar==2.3
+```
+
+## Reference
+K. Zheng, J. Gao, K. Y. Ngiam, B. C. Ooi, and W.L.J. Yip.  
+**Resolving the Bias in Electronic Medical Records.**  
+*Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (SIGKDD), pages 2171-2180, 2017.* 
